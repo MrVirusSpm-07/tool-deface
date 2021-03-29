@@ -25,9 +25,9 @@ echo $red"::::::::::::::::::::::::::::::::::"
 echo $purple
 echo "A.BERBENTUK MATERI TEXS"
 echo $green
-echo 1.) METODE KINDEDITOR             2.) METODE WEBDAV
+echo "1.) METODE KINDEDITOR             2.) METODE WEBDAV"
 echo
-echo 3.) METODE BYPAS ADMIN            4.) METODE SQL
+echo "3.) METODE BYPAS ADMIN            4.) METODE SQL"
 echo $purple
 echo "B.BERBENTUK VIDEO TUTORIAL"
 echo $green
